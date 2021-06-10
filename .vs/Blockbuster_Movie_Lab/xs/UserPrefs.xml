@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{2075B733-B0E5-4667-879A-15742EA4C8C1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Blockbuster_Movie_Lab/Program.cs">
+    <Files>
+      <File FileName="Blockbuster_Movie_Lab/Program.cs" Line="45" Column="1" />
+      <File FileName="Blockbuster_Movie_Lab/Movie.cs" />
+      <File FileName="Blockbuster_Movie_Lab/VHS.cs" />
+      <File FileName="Blockbuster_Movie_Lab/DVD.cs" />
+      <File FileName="Blockbuster_Movie_Lab/Blockbuster.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Blockbuster_Movie_Lab" expanded="True">
+            <Node name="Blockbuster_Movie_Lab" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Blockbuster__Movie__Lab PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

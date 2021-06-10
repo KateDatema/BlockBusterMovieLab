@@ -1,0 +1,6 @@
+/Users/katedatema/Projects/Blockbuster_Movie_Lab/Blockbuster_Movie_Lab/obj/Debug/Blockbuster_Movie_Lab.csprojAssemblyReference.cache
+/Users/katedatema/Projects/Blockbuster_Movie_Lab/Blockbuster_Movie_Lab/obj/Debug/Blockbuster_Movie_Lab.csproj.CoreCompileInputs.cache
+/Users/katedatema/Projects/Blockbuster_Movie_Lab/Blockbuster_Movie_Lab/bin/Debug/Blockbuster_Movie_Lab.exe
+/Users/katedatema/Projects/Blockbuster_Movie_Lab/Blockbuster_Movie_Lab/bin/Debug/Blockbuster_Movie_Lab.pdb
+/Users/katedatema/Projects/Blockbuster_Movie_Lab/Blockbuster_Movie_Lab/obj/Debug/Blockbuster_Movie_Lab.exe
+/Users/katedatema/Projects/Blockbuster_Movie_Lab/Blockbuster_Movie_Lab/obj/Debug/Blockbuster_Movie_Lab.pdb
